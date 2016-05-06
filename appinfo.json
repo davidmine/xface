@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dhmine@gmail.com",
+    "enableMultiJS": true,
+    "longName": "XFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/xfiles_typewriter",
+                "name": "XFILES_TYPE_18",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/xfiles_typewriter_large",
+                "name": "XFILES_TYPE_46",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "XFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "31ed3dff-f9de-4f9d-9d93-89f79f523d0f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
